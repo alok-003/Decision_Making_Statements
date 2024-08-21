@@ -39,14 +39,19 @@ VS Code
 
  -If x > 0 and y > 0:
    Print "The point is in the first quadrant."
+
  -Else If x < 0 and y > 0:
    Print "The point is in the second quadrant."
+
  -Else If x < 0 and y < 0:
    Print "The point is in the third quadrant."
+
  -Else If x > 0 and y < 0:
    Print "The point is in the fourth quadrant."
+
  -Else If (x == 0 and y != 0) or (x != 0 and y == 0):
    Print "The point is on the axis."
+
  -Else:
    Print "The point is at the origin."
    
@@ -63,12 +68,15 @@ VS Code
 -Input:
 
 -Ask the user to enter a number and store it in num.
+
 -Decision Making (using if-else statements):
 
 -If num > 0:
   Print "The num is POSITIVE."
+
 -Else:
   Print "The num is NEGATIVE."
+
 -End
 
 ## Vowel and Consonant Checker
@@ -87,6 +95,7 @@ VS Code
 -If character is one of the following vowels (both lowercase and uppercase):
    'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U':
    Print "character is a vowel."
+
 -Else:
    Print "character is a consonant."
 End
